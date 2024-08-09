@@ -134,5 +134,3 @@
 - **Utilisez l’Explorateur Stockage Azure** : Familiarisez-vous avec cet outil pour gérer les données efficacement.
 
 ---
-
-Avec ce guide, vous êtes équipé pour réviser efficacement et réussir l’examen AZ-104. Bonne chance !
