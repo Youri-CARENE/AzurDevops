@@ -150,4 +150,3 @@
 
 ---
 
-Avec ce guide, vous êtes bien préparé pour réussir l’examen AZ-104. Bonne chance !
