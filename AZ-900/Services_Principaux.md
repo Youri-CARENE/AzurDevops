@@ -47,5 +47,3 @@ Les services de réseau permettent de connecter et de protéger les ressources A
 
 ---
 
-## Conclusion
-Les services principaux d'Azure couvrent les domaines du calcul, du stockage, et du réseau, permettant de créer une infrastructure complète et performante pour les besoins variés des entreprises. Pour réussir l'examen AZ-900, il est crucial de comprendre les rôles et cas d'utilisation de chaque service.
